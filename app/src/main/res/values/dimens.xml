@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textviewSize">32sp</dimen>
+    <dimen name="rightMargin">24dp</dimen>
+    <dimen name="button_size">60sp</dimen>
+</resources>
